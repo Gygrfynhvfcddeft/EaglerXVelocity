@@ -1,5 +1,4 @@
-# EaglerXVelocity [![Discord](https://img.shields.io/discord/1225272078752813178?label=Discord)](https://discord.gg/m6vCCX6Hvr) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwSd8pbURlMBAIxqq8EaELw?style=flat-square&label=Subscribers)](https://www.youtube.com/@ismaeltechI?sub_confirmation=1)
-> [!IMPORTANT]
+# EaglerXVelocity
 > Follow the step by step to use Velocity with EaglerXVelocity.
 
 ## Making the Github Codespaces with 16GB RAM and 4CPUs
