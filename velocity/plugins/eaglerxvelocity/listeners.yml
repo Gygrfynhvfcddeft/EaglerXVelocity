@@ -1,4 +1,5 @@
 listener_01:
+  allow_voice: true
   address: 0.0.0.0:8081
   address_v6: 'null'
   max_players: 60
@@ -7,7 +8,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&1IsmaelTech Guide'
+  - '&6the diddy party'
+  - '&4your single and you know it'
   allow_motd: true
   allow_query: true
   request_motd_cache:
