@@ -75,7 +75,7 @@ world-settings:
     nerf-spawner-mobs: false
     mob-spawn-range: 4
     anti-xray:
-      enabled: true
+      enabled: false
       engine-mode: 1
       hide-blocks:
       - 14
@@ -96,13 +96,13 @@ world-settings:
       - 5
     growth:
       cactus-modifier: 100
-      cane-modifier: 100
+      cane-modifier: 250
       melon-modifier: 100
       mushroom-modifier: 100
-      pumpkin-modifier: 100
+      pumpkin-modifier: 300
       sapling-modifier: 100
       wheat-modifier: 100
-      netherwart-modifier: 100
+      netherwart-modifier: 300
     entity-activation-range:
       animals: 32
       monsters: 32
