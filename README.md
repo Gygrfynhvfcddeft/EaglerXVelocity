@@ -26,12 +26,13 @@ sdk install java 17.0.9-amzn
 cd server
 chmod +x server.sh
 cd
-cd velocity
+cd /workspaces/EaglerXVelocity/velocity
 chmod +x velocity.sh
 cd
-cd limbo
+cd /workspaces/EaglerXVelocity/limbo
 chmod +x limbo.sh
 cd
+cd /workspaces/EaglerXVelocity/
 ```
 # How to turn the server back on (do this for everytime)
 ## Commands for server (backend)
