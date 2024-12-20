@@ -1,5 +1,6 @@
 # EaglerXVelocity
 > Follow the step by step to use Velocity with EaglerXVelocity.
+> 
 > I hope I made this idiot proof
 ## Making the Github Codespaces with 16GB RAM and 4CPUs
 To make the codespaces, make sure to access from https://github.com/codespaces.
@@ -36,7 +37,9 @@ cd /workspaces/EaglerXVelocity/
 ```
 # How to turn the server back on (do this for everytime)
 ### how to make 3 tabs
+
  ![Screenshot 2024-12-20 9 52 25 AM](https://github.com/user-attachments/assets/e7ca31b4-1303-4e09-b81c-978a25229135)
+ 
  click on the plus 2 times, then go back to the first tab
 ## Commands for server (backend)
  Paste this into the first tab then click enter:
@@ -58,8 +61,12 @@ cd limbo
 ```
 # Port forwarding the server
  Go to where it says ports and click on it.
- ![Screenshot 2024-12-20 10 22 05 AM](https://github.com/user-attachments/assets/e86b821a-165c-4792-9693-e79408894aba)
  
+ ![Screenshot 2024-12-20 10 22 05 AM](https://github.com/user-attachments/assets/e86b821a-165c-4792-9693-e79408894aba)
+
+ If you completed the steps above as intended then it should have 3 auto-forwarded ports, 8081, 25565, and 25577.
+ Right click on 8081 then click port visibility, and click on public.
+ Right click on 8081 again then on
 ## FAQ
 
 #### How to turn off the Github Codespaces?
