@@ -66,7 +66,7 @@ cd limbo
 
  If you completed the steps above as intended then it should have 3 auto-forwarded ports, 8081, 25565, and 25577.
  Right click on 8081 then click port visibility, and click on public.
- Right click on 8081 again then on
+ Right click on 8081 again then on "Open In Browser" it should tell you the server ip.
 ## FAQ
 
 #### How to turn off the Github Codespaces?
@@ -74,3 +74,11 @@ cd limbo
 1.) Go to https://github.com/codespaces
 
 2.) then click the 3 dots and turn off
+
+#### How do I add plugins?
+
+1.) Go to [Spigot](https://www.spigotmc.org/resources/categories/spigot.4/) or [Bukkit](https://dev.bukkit.org/bukkit-plugins)
+
+2.) Download a plugin of your choice(make sure it supports 1.8) go to your codespace server, open the "server" folder then drag (plugin).jar into the plugins folder inside the server folder.
+
+3.) Type "restart" on the first tab. Type pl in the first tab and it should say Plugins(#) (plugin), if it doesn't then delete it from the plugins folder and repeat the process.
