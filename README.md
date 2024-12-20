@@ -1,7 +1,7 @@
 # EaglerXVelocity
 > Follow the step by step to use Velocity with EaglerXVelocity.
 > 
-> I hope I made this idiot proof
+> I hope I made this idiot proof.
 ## Making the Github Codespaces with 16GB RAM and 4CPUs
 To make the codespaces, make sure to access from https://github.com/codespaces.
 
