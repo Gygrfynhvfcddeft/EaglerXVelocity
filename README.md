@@ -16,11 +16,10 @@ sudo apt upgrade -y
 ```
 Copy and Paste this into the terminal and wait until it says "Do you want java 17.0.9-amzn to be set as default? (Y/n)" 
 
-and write "y" without the "" and MAKE SURE TO WRITE y
 ```bash
 sdk install java 17.0.9-amzn
 ```
-
+and write "y" without the "" and MAKE SURE TO WRITE y
 # Setting Up Server
  Paste this into the terminal then click enter:
 ```bash
