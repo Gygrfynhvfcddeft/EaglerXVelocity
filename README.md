@@ -76,8 +76,8 @@ cd limbo
 
 #### How do I add plugins?
 
-1.) Go to [Spigot](https://www.spigotmc.org/resources/categories/spigot.4/) or [Bukkit](https://dev.bukkit.org/bukkit-plugins)
+1.) Go to [Spigot](https://www.spigotmc.org/resources/categories/spigot.4/), [Bukkit](https://dev.bukkit.org/bukkit-plugins), or any websites that has plugins for you to install
 
-2.) Download a plugin of your choice(make sure it supports 1.8) go to your codespace server, open the "server" folder then drag (plugin).jar into the plugins folder inside the server folder.
+2.) Download the plugin of your choice(make sure it supports 1.8) go to your codespace server, open the "server" folder, then drag (plugin).jar into the plugins folder inside the server folder.
 
-3.) Type "restart" on the first tab. Type pl in the first tab and it should say Plugins(#) (plugin), if it doesn't then delete it from the plugins folder and repeat the process.
+3.) Type "restart" on the first tab. Type pl in the first tab, then it should say Plugins(#) (plugin(s)), if it doesn't, then delete it from the plugins folder and repeat the process.
